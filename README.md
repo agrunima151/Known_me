@@ -1,7 +1,6 @@
-[![MasterHead](https://www.canva.com/design/DAGY_kGodKY/5PhDdjIEK3fw32jwZTdEpA/edit?utm_content=DAGY_kGodKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Arunima Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 - 📫 How to reach me **arunima15012003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
